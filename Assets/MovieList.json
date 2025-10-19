@@ -1,0 +1,182 @@
+{
+  "Conclave": {
+    "title": "Conclave",
+    "genre": "Thriller/Mystery",
+    "poster": "../Assets/posters/Conclave.webp",
+    "filepath": "../Assets/videos/Coffee.mp4"
+  },
+  "Snow White": {
+    "title": "Snow White",
+    "genre": "Family/Fantasy",
+    "poster": "../Assets/posters/SnowWhite.webp",
+    "filepath": "../Assets/videos/Coffee.mp4"
+  },
+  "How To Train Your Dragon": {
+    "title": "How To Train Your Dragon",
+    "genre": "Fantasy/Action",
+    "poster": "../Assets/posters/HowToTrainYourDragon.webp",
+    "filepath": "../Assets/videos/Coffee.mp4"
+  },
+  "Interstellar": {
+    "title": "Interstellar",
+    "genre": "Sci-Fi/Adventure",
+    "poster": "../Assets/posters/Interstellar.webp",
+    "filepath": "../Assets/videos/Coffee.mp4"
+  },
+  "Jurassic World": {
+    "title": "Jurassic World",
+    "genre": "Adventure/Sci-Fi",
+    "poster": "../Assets/posters/JurassicWorld.webp",
+    "filepath": "../Assets/videos/Coffee.mp4"
+  },
+  "Lilo & Stitch": {
+    "title": "Lilo & Stitch",
+    "genre": "Sci-Fi/Adventure",
+    "poster": "../Assets/posters/Lilo&Stitch.webp",
+    "filepath": "../Assets/videos/Coffee.mp4"
+  },
+  "Mickey 17": {
+    "title": "Mickey 17",
+    "genre": "Sci-Fi/Thriller",
+    "poster": "../Assets/posters/Mickey17.webp",
+    "filepath": "../Assets/videos/Coffee.mp4"
+  },
+  "Mission Impossible": {
+    "title": "Mission Impossible",
+    "genre": "Action/Thriller",
+    "poster": "../Assets/posters/MissionImpossible.webp",
+    "filepath": "../Assets/videos/Coffee.mp4"
+  },
+  "Nickel Boys": {
+    "title": "Nickel Boys",
+    "genre": "Historical Drama",
+    "poster": "../Assets/posters/NickelBoys.webp",
+    "filepath": "../Assets/videos/Coffee.mp4"
+  },
+  "Novocaine": {
+    "title": "Novocaine",
+    "genre": "Action",
+    "poster": "../Assets/posters/Novocaine.webp",
+    "filepath": "../Assets/videos/Coffee.mp4"
+  },
+  "MUFASA The Lion King": {
+    "title": "MUFASA The Lion King",
+    "genre": "Adventure/Musical",
+    "poster": "../Assets/posters/MUFASATheLionKing.webp",
+    "filepath": "../Assets/videos/Coffee.mp4"
+  },
+  "Dog Man": {
+    "title": "Dog Man",
+    "genre": "Family",
+    "poster": "../Assets/posters/DogMan.webp",
+    "filepath": "../Assets/videos/Coffee.mp4"
+  },
+  "Dune Part Two": {
+    "title": "Dune Part Two",
+    "genre": "Sci-Fi/Adventure",
+    "poster": "../Assets/posters/DunePartTwo.webp",
+    "filepath": "../Assets/videos/Coffee.mp4"
+  },
+  "Sonic the Hedgehog 3": {
+    "title": "Sonic the Hedgehog 3",
+    "genre": "Action/Adventure",
+    "poster": "../Assets/posters/SonictheHedgehog3.webp",
+    "filepath": "../Assets/videos/Coffee.mp4"
+  },
+  "Freakier Friday": {
+    "title": "Freakier Friday",
+    "genre": "Comeday/Family",
+    "poster": "../Assets/posters/FreakierFriday.webp",
+    "filepath": "../Assets/videos/Coffee.mp4"
+  },
+  "Harry Potter": {
+    "title": "Harry Potter",
+    "genre": "Fantasy/Action",
+    "poster": "../Assets/posters/HarryPotter.webp",
+    "filepath": "../Assets/videos/Coffee.mp4"
+  },
+  "Paddington In Peru": {
+    "title": "Paddington In Peru",
+    "genre": "Comeday/Adventure",
+    "poster": "../Assets/posters/PaddingtonInPeru.webp",
+    "filepath": "../Assets/videos/Coffee.mp4"
+  },
+  "Superman Returns": {
+    "title": "Superman Returns",
+    "genre": "Action/Sci-Fi",
+    "poster": "../Assets/posters/SupermanReturns.webp",
+    "filepath": "../Assets/videos/Coffee.mp4"
+  },
+  "The Alto Knights": {
+    "title": "The Alto Knights",
+    "genre": "Thriller/Crime",
+    "poster": "../Assets/posters/TheAltoKnights.webp",
+    "filepath": "../Assets/videos/Coffee.mp4"
+  },
+  "The Menu": {
+    "title": "The Menu",
+    "genre": "Horror/Mystery",
+    "poster": "../Assets/posters/TheMenu.webp",
+    "filepath": "../Assets/videos/Coffee.mp4"
+  },
+  "The Outrun": {
+    "title": "The Outrun",
+    "genre": "Drama",
+    "poster": "../Assets/posters/TheOutrun.webp",
+    "filepath": "../Assets/videos/Coffee.mp4"
+  },
+  "Dune Part One": {
+    "title": "Dune Part One",
+    "genre": "Action/Sci-Fi",
+    "poster": "../Assets/posters/DunePartOne.webp",
+    "filepath": "../Assets/videos/Coffee.mp4"
+  },
+  "Thunderbolts": {
+    "title": "Thunderbolts",
+    "genre": "Action/Sci-Fi",
+    "poster": "../Assets/posters/Thunderbolts.webp",
+    "filepath": "../Assets/videos/Coffee.mp4"
+  },
+  "A Complete Unknown": {
+    "title": "A Complete Unknown",
+    "genre": "History",
+    "poster": "../Assets/posters/ACompleteUnknown.webp",
+    "filepath": "../Assets/videos/Coffee.mp4"
+  },
+  "Black Bag": {
+    "title": "Black Bag",
+    "genre": "Action",
+    "poster": "../Assets/posters/BlackBag.webp",
+    "filepath": "../Assets/videos/Coffee.mp4"
+  },
+  "Gladiator": {
+    "title": "Gladiator",
+    "genre": "Action/Adventure",
+    "poster": "../Assets/posters/Gladiator.webp",
+    "filepath": "../Assets/videos/Coffee.mp4"
+  },
+  "Becoming Led Zeppelin": {
+    "title": "Becoming Led Zeppelin",
+    "genre": "Documentary",
+    "poster": "../Assets/posters/BecomingLedZeppelin.webp",
+    "filepath": "../Assets/videos/Coffee.mp4"
+  },
+  "Minecraft Movie": {
+    "title": "Minecraft Movie",
+    "genre": "Action/Fantasy",
+    "poster": "../Assets/posters/MinecraftMovie.webp",
+    "filepath": "../Assets/videos/Coffee.mp4"
+  },
+  "The Wild Robot": {
+    "title": "The Wild Robot",
+    "genre": "Family/Sci-Fi",
+    "poster": "../Assets/posters/TheWildRobot.webp",
+    "filepath": "../Assets/videos/Coffee.mp4"
+  },
+  "Pirates of the Caribbean": {
+    "title": "Pirates of the Caribbean",
+    "genre": "Adventure/Action",
+    "poster": "../Assets/posters/PiratesoftheCaribbean.webp",
+    "filepath": "../Assets/videos/testing.mp4"
+  }
+}
