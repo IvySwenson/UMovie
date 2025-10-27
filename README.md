@@ -10,7 +10,7 @@ Welcome to the SC Group Project repository. This project is a collaborative effo
 ## Project Structure
 The project is organized as follows:  
 ```bash
-SC-F372_SC/ ─── Assets/ # Static assets (posters, videos, etc.)  
+UMovie/ ─── Assets/ # Static assets (posters, videos, etc.)  
             │ ├── banners/ # Folder containing all movie banners   
             │ │ └── {moviebanner.jpg} x6  
             │ |
