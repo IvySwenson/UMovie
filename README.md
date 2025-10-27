@@ -1,4 +1,4 @@
-# CS-372 Software Construction Group Project
+# UMovie Software Construction Group Project
 
 Welcome to the SC Group Project repository. This project is a collaborative effort to build a robust movie management platform with features for content editing, marketing management, and user interaction. The platform is built using Node.js, MongoDB, and modern web technologies. As a final for our Junior Software Construction course.
 
